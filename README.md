@@ -1,5 +1,3 @@
-<img align="right" width="140" src="https://i.ibb.co/B2HXz9Nc/image.png" alt="Asil Ozyildirim" />
-
 # Asil Ozyildirim
 
 I'm the co-founder and CEO of [Privent](https://privent.ai), the runtime data control layer for AI agents.
