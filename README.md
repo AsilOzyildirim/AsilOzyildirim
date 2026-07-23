@@ -18,5 +18,4 @@ Every earlier layer of the internet needed its own place to enforce trust: firew
 
 ---
 
-<!-- swap in your personal site's URL once it's live -->
-[Email](mailto:asil@privent.ai) · [Site](https://your-domain-here) · [LinkedIn](https://www.linkedin.com/in/asilozyildirim/) · [Privent](https://privent.ai)
+[Email](mailto:asil@privent.ai) · [Site](https://asilozyildirim.github.io) · [LinkedIn](https://www.linkedin.com/in/asilozyildirim/) · [Privent](https://privent.ai)
